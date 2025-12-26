@@ -1,6 +1,4 @@
 # Restaurant-Dataset-Analysis-
-The objective of this analysis is to analyse Restaurant Orders using SQL. 
-Restaurant Dataset Analysis using SQL
 Objective:
 The objective of this dataset is to analyse Restaurant Orders using SQL. It facilitates customer ordering behaviour analysis, menu item performance tracking, and revenue generation insights by organising and querying order details and menu item data.
 The dataset supports data cleaning, aggregation, and sales analysis, making it useful for understanding customer preferences, optimising menu offerings, and improving overall restaurant operations.
